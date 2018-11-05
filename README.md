@@ -9,6 +9,7 @@ IndexMapper.java (Mapper)
 IndexReducer.java(Reducer)
 InvertedIndex.java(Driver)
 
+Java File Location - src/stubs
 
 Data file: ~/training_materials/developer/data/invertedIndexInput.tgz	
 
